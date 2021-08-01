@@ -17,3 +17,6 @@ https://www.w3schools.com/python/python_strings_methods.asp
 https://www.w3schools.com/python/ref_string_split.asp
 
 https://www.w3schools.com/python/python_regex.asp
+
+
+Pošlji podatke po e-mailu.
