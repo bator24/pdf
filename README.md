@@ -17,11 +17,11 @@ Zato sem poskusil še s knjižnico  `pdfplumber` https://pypi.org/project/pdfplu
 
 ![namestitev](./install_pdfplumber.png)
 
-https://www.w3schools.com/python/python_strings_methods.asp
+Osnove za delo z nizi znakov najdeš na:
 
-https://www.w3schools.com/python/ref_string_split.asp
-
-https://www.w3schools.com/python/python_regex.asp
+* https://www.w3schools.com/python/python_strings_methods.asp
+* https://www.w3schools.com/python/ref_string_split.asp
+* https://www.w3schools.com/python/python_regex.asp
 
 
 Pošlji podatke po e-mailu.
