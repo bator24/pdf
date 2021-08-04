@@ -15,7 +15,7 @@ Ko sem stvari poskusil, mi niso delovale. Izkaže se, da je PyPDF2 nadomestila k
 Zato sem poskusil še s knjižnico  `pdfplumber` https://pypi.org/project/pdfplumber/ - ta mi da pričakovane rezultate.
    
 
-![namestitev](https://github.com/bavla/NormNet/blob/main/data/natalija/UssrX2018JacWard.png)
+![namestitev](./install_pdfplumber.png)
 
 https://www.w3schools.com/python/python_strings_methods.asp
 
